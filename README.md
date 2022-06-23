@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krati909
-- 👀 I’m interested in fullstack development.
-- 🌱 I’m currently learning backend develpment with Python
+- 👀 I’m interested in data science.
+- 🌱 I’m currently working as backend developer with Python
 - 💞️ I’m looking to collaborate with anyone I can
 - 📫 How to reach me ...
       Email- radhikaguptakrati@gmail.com
